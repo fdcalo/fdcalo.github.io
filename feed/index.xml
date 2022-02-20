@@ -10,7 +10,7 @@
 <channel>
 	<title>My Personal Website</title>
 	<atom:link href="http://localhost/rico/feed/" rel="self" type="application/rss+xml" />
-	<link>https://fdcalo.github.io</link>
+	<link>https://ricocalo.com</link>
 	<description>Federico A. Calo</description>
 	<lastBuildDate>Sun, 20 Feb 2022 03:36:11 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.9</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://fdcalo.github.io/2022/02/20/hello-world/</link>
-					<comments>https://fdcalo.github.io/2022/02/20/hello-world/#comments</comments>
+		<link>https://ricocalo.com/2022/02/20/hello-world/</link>
+					<comments>https://ricocalo.com/2022/02/20/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[ijborda]]></dc:creator>
 		<pubDate>Sun, 20 Feb 2022 03:36:11 +0000</pubDate>
 				<category><![CDATA[Uncategorised]]></category>
-		<guid isPermaLink="false">https://fdcalo.github.io/?p=1</guid>
+		<guid isPermaLink="false">https://ricocalo.com/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://fdcalo.github.io/2022/02/20/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ricocalo.com/2022/02/20/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
