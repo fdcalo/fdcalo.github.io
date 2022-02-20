@@ -2,7 +2,7 @@
 /* Slider */
 .slick-loading .slick-list
 {
-    background: #fff url('https://fdcalo.github.io/wp-content/themes/mik/assets/uploads/ajax-loader.gif') center center no-repeat;
+    background: #fff url('https://ricocalo.com/wp-content/themes/mik/assets/uploads/ajax-loader.gif') center center no-repeat;
 }
 
 /* Icons */
@@ -12,11 +12,11 @@
     font-weight: normal;
     font-style: normal;
 
-    src: url('https://fdcalo.github.io/wp-content/themes/mik/assets/fonts/slick.eot');
-    src: url('https://fdcalo.github.io/wp-content/themes/mik/assets/fonts/slick.eot#iefix') format('embedded-opentype'), 
-    url('https://fdcalo.github.io/wp-content/themes/mik/assets/fonts/slick.woff') format('woff'), 
-    url('https://fdcalo.github.io/wp-content/themes/mik/assets/fonts/slick.ttf') format('truetype'), 
-    url('https://fdcalo.github.io/wp-content/themes/mik/assets/fonts/slick.svg#slick') format('svg');
+    src: url('https://ricocalo.com/wp-content/themes/mik/assets/fonts/slick.eot');
+    src: url('https://ricocalo.com/wp-content/themes/mik/assets/fonts/slick.eot#iefix') format('embedded-opentype'), 
+    url('https://ricocalo.com/wp-content/themes/mik/assets/fonts/slick.woff') format('woff'), 
+    url('https://ricocalo.com/wp-content/themes/mik/assets/fonts/slick.ttf') format('truetype'), 
+    url('https://ricocalo.com/wp-content/themes/mik/assets/fonts/slick.svg#slick') format('svg');
 }
 /* Arrows */
 .slick-prev,

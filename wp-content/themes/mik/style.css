@@ -2092,7 +2092,7 @@ ol.comment-list {
 }
 .single-post article blockquote:before {
     content: "";
-    background-image: url('https://fdcalo.github.io/wp-content/themes/mik/assets/uploads/blockquote.png');
+    background-image: url('https://ricocalo.com/wp-content/themes/mik/assets/uploads/blockquote.png');
     background-repeat: no-repeat;
     position: absolute;
     top: 0;
@@ -3313,7 +3313,7 @@ h2.entry-title a {
 }
 .slick-prev:before,
 .slick-next:before {
-    background-image: url('https://fdcalo.github.io/wp-content/themes/mik/assets/uploads/down-arrow.svg');
+    background-image: url('https://ricocalo.com/wp-content/themes/mik/assets/uploads/down-arrow.svg');
     content: "";
     background-repeat: no-repeat;
     width: 18px;
