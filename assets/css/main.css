@@ -6893,7 +6893,7 @@ html, body {
 			display: block;
 			position: relative;
 			overflow: hidden;
-			width: 324px;
+			width: 360px;
 			height: 225px;
 		}
 
@@ -6938,7 +6938,7 @@ html, body {
 				height: 100%;
 				background-color: rgba(0, 0, 0, 0.5);
 				opacity: 0;
-				padding: 3rem;
+				padding: 1rem;
 				z-index: 1;
 				font-size: 0.8rem;
 			}
@@ -8727,6 +8727,9 @@ ul.albumFull {
 	}
 	.albumFull img {
 		max-width: 90vw;
+	}
+	.gallery.style2 article {
+		width: 324px;
 	}
 
 }
