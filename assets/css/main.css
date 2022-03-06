@@ -3648,10 +3648,10 @@ html, body {
 		}
 
 		.banner.style1.image-position-right .image img {
-			-moz-object-position: center;
-			-webkit-object-position: center;
-			-ms-object-position: center;
-			object-position: center;
+			-moz-object-position: top;
+			-webkit-object-position: top;
+			-ms-object-position: top;
+			object-position: top;
 		}
 
 /* Banner (style2) */
@@ -6893,8 +6893,8 @@ html, body {
 			display: block;
 			position: relative;
 			overflow: hidden;
-			width: 360px;
-			height: 250px;
+			width: 324px;
+			height: 225px;
 		}
 
 			.gallery.style2 article .image {
@@ -8646,7 +8646,6 @@ footer .nav {
 	justify-content: center;
 }
 
-
 .gallerySection {
 	display: flex;
 	flex-wrap: wrap;
@@ -8678,20 +8677,16 @@ footer .nav {
 	padding: 2rem;
 	text-align: center;
 }
-
 .albumTitle {
 	margin: 2rem 0 4rem 0;
 	border-bottom: 2px solid rgb(236, 236, 236);
 }
-
 .albumTitle i {
 	padding-right: .5rem;
 }
-
 .albumTitle p:last-child {
 	color: #0766f4;
 }
-
 ul.albumFull {
 	display: flex;
 	flex-wrap: wrap;
@@ -8699,16 +8694,14 @@ ul.albumFull {
 	justify-content: center;
 	padding-left: 0;
 	gap: .5rem;
-  }
-  
-  .albumFull li {
+} 
+.albumFull li {
 	height: 40vh;
 	flex-grow: 1;
 	flex-shrink: 1;
 	padding-left: 0;
-  }
-  
-  .albumFull img {
+}
+.albumFull img {
 	max-height: 100%;
 	min-width: 100%;
 	object-fit: cover;
@@ -8716,28 +8709,36 @@ ul.albumFull {
 	border: 5px solid white;
 	outline: 2px solid rgba(121, 121, 121, 0.15);
 	box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
-  }
-  .albumFull li:last-child {
-		flex-grow: 10;
-	}
-
-  .output .albumFull li {
+}
+.albumFull li:last-child {
+	flex-grow: 10;
+}
+.output .albumFull li {
 	height: 51vh;
-  }
-
-  .output .albumFull img {
+}
+.output .albumFull img {
 	object-fit: contain;
 	min-width: auto;
-  }
-  .output .albumFull li {
+	max-width: 90vw;
+}
+@media screen and (max-width: 800px){
+	.albumFull li, .output .albumFull li {
+	height: auto;
+	}
+	.albumFull img {
+		max-width: 90vw;
+	}
+
+}
+.output .albumFull li {
 	flex-grow: 0;
-  }
-  .icons a {
+}
+.icons a {
 	color: #000000;
-  }
-  .buttonClick:hover {
+}
+.buttonClick:hover {
 	transform: translateY(5px);
-  }
+}
 
 #recent{
 	padding: 0 1rem;
@@ -8770,7 +8771,7 @@ h1 {
 	font-weight: 400;
 }
 
-@media screen and (max-width: 659px) {
+@media screen and (max-width: 800px) {
 	ul.nav {
 		justify-content: center;
 	}
