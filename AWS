@@ -1,0 +1,258 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Federico Calo - My Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		
+		<script src="https://kit.fontawesome.com/41ed2c6bc1.js" crossorigin="anonymous"></script>
+		<link rel="icon" href="images/favicon.ico">
+
+		<meta name="title" content="Portfolio of Federico Calo - Project Delivery Manager">
+		<meta name="description" content="I'm a Project Delivery Manager at a market research company based in Germany. This website features my projects and works. My contact details can also be found here">
+		<meta name="image" property="og:image" content="https://github.com/fdcalo/fdcalo.github.io/blob/gh-pages/images/portfolio.png?raw=true">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="https://metatags.io/">
+		<meta property="og:title" content="Portfolio of Federico Calo - Project Delivery Manager">
+		<meta property="og:description" content="I'm a Project Delivery Manager at a market research company based in Germany. This website features my projects and works. My contact details can also be found here.">
+		<meta property="og:image" content="images/portfolio.png">
+		<meta property="twitter:card" content="summary_large_image">
+		<meta property="twitter:url" content="https://metatags.io/">
+		<meta property="twitter:title" content="Portfolio of Federico Calo - Project Delivery Manager">
+		<meta property="twitter:description" content="I'm a Project Delivery Manager at a market research company based in Germany. This website features my projects and works. My contact details can also be found here.">
+		<meta property="twitter:image:src" content="https://github.com/fdcalo/fdcalo.github.io/blob/gh-pages/images/portfolio.png?raw=true">
+
+
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper" class="divided">
+				<!-- One -->
+					<section id="home" class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
+						<div class="content">
+							<header>
+								<ul class="nav">
+									<li class="buttonClick"><a href="#aboutme">About Me</a></li>
+									<li class="buttonClick"><a href="#recent">Activities</a></li>
+									<li class="buttonClick"><a href="#skills">My Skills</a></li>
+								</ul>
+							</header>
+							<h1>Federico Calo</h1>
+							<h2>Project Delivery Manager</h2>
+							<p class="major">Experienced project manager with a demonstrated history of working in the academe and in the market research industry</p>
+							<ul class="actions stacked">
+								<li><a href="images/Federico Calo_CV_02-2022.pdf" download class="buttonClick button big wide smooth-scroll-middle">Download CV</a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/banner.jpg" alt="" />
+						</div>
+					</section>
+
+				<!-- Two -->
+					<section id="aboutme" class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
+						<div class="content">
+							<h2>About Me</h2>
+							<ul class="moreInfo">
+								<li>Based in Davao City, Philippines</li>
+								<li>Degree in BS Applied Mathematics</li>
+							</ul>
+							<p>I’m Rico, a Project Delivery Manager at a market research company based in Germany. Skilled in data analysis, strategy, management, and collaboration. Strong research professional with a Bachelor's degree focused in Applied Mathematics from the University of the Philippines Mindanao.</p>
+							<p>As a Project Delivery Manager, I oversee a team of Project Delivery Associates, ensuring the successful execution of various projects. In addition to my supervisory role, I am responsible for providing quotations to market research companies, monitoring ongoing projects, addressing any emerging issues both internally and with clients, and invoicing for closed or completed projects. </p>
+							<p>The ability to manage teams, maintain project timelines, and handle financial transactions are crucial in delivering high-quality results to our clients while meeting their budgetary needs. </p>
+							<ul class="icons">
+								<li><a target = "_blank" href="https://www.facebook.com/federic.calo" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+								<li><a target = "_blank" href="https://twitter.com/fdcalo" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a target = "_blank" href="https://www.linkedin.com/in/federico-calo-277686196/" class="icon brands style2 fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+								<li><a target = "_blank" href="mailto:fdcalo@up.edu.ph" class="icon style2 fa-envelope"><span class="label">Email</span></a></li>
+							</ul>
+						</div>
+						<div class="image">
+							<img src="images/spotlight01.jpg" alt="" />
+						</div>
+					</section>
+					
+				<!-- Six -->
+				<section id="skills" class="wrapper style1 align-center">
+					<div class="inner">
+						<h2>My Skills</h2>
+						<p>These are the tools and methodologies that I'm working with.</p>
+						<div class="items style1 medium onscroll-fade-in">
+							<section>
+								<span class="icon style2 major"><img class="skill-logo" src="images/gis-logo.png"></span>
+								<h3>GIS Mapping</h3>
+							</section>
+							<section>
+								<span class="icon solid style2 major"><img class="skill-logo" src="images/r-logo.png"></span>
+								<h3>R<sub>e</sub> Esimaton with R</h3>
+							</section>
+							<section>
+								<span class="icon solid style2 major"><img class="skill-logo" src="images/hotspot-logo.png"></span>
+								<h3>Hotspot Analysis</h3>
+							</section>
+							<section>
+								<span class="icon solid style2 major"><img class="skill-logo" src="images/dataanalytics-logo.png"></span>
+								<h3>Data Analytics</h3>
+							</section>
+							<section>
+								<span class="icon style2 major"><img class="skill-logo" src="images/collaboration-logo.png"></span>
+								<h3>Collaboration</h3>
+							</section>
+						</div>
+					</div>
+				</section>
+
+				<!-- Five -->
+					<section id="recent" class="wrapper style1 align-center">
+						<div class="inner">
+							<h2>Recent Activities</h2>
+							<p>Here are my latest engagements.</p>
+						</div>
+
+						<!-- Gallery -->
+							<div class="gallery style2 medium lightbox onscroll-fade-in">
+								
+								<section>
+									<div class="gallerySection">
+										<article class="albums">
+											<a href="esri.html" class="image">
+												<img src="images/gallery/IMG_3788.jpg" alt="" />
+											</a>
+											<div class="caption">
+												<h3>AWS Community Day - Davao Roadshow 2023</h3>
+												<p>September 23, 2023</p>
+											</div>
+										</article>
+									</div>
+								</section>
+								<section>
+									<div class="gallerySection">
+										<article class="albums">
+											<a href="esri.html" class="image">
+												<img src="images/gallery/thumbs/esri-3.jpg" alt="" />
+											</a>
+											<div class="caption">
+												<h3>ESRI Training & MOOC on Cartography</h3>
+												<p>February 16 - March 30, 2022</p>
+											</div>
+										</article>
+									</div>
+								</section>
+								<section>
+									<div class="gallerySection">
+										<article class="albums">
+											<a href="siliman.html" class="image">
+												<img src="images/gallery/thumbs/siliman-1.jpg" alt="" />
+											</a>
+											<div class="caption">
+												<h3>Potential Collaboration with Silliman University </h3>
+												<p>January 2022</p>
+											</div>
+										</article>
+									</div>
+								</section>
+								<section>
+									<div class="gallerySection">
+										<article class="albums">
+											<a href="pshs.html" class="image">
+												<img src="images/gallery/thumbs/pshs-1.jpg" alt="" />
+											</a>
+											<div class="caption">
+												<h3>PSHS Internship </h3>
+												<p>September 27, 2021 to February 7, 2022</p>
+											</div>
+										</article>
+									</div>
+								</section>
+								<section>
+									<div class="gallerySection">
+										<article class="albums">
+											<a href="fieldworkRegion12.html" class="image">
+												<img src="images/gallery/thumbs/fieldwordRegion12-6.png" alt="" />
+											</a>
+											<div class="caption">
+												<h3>Fieldwork in Region 12</h3>
+												<p>January 19-23, 2022</p>
+											</div>
+										</article>
+									</div>
+								</section>
+								<section>
+									<div class="gallerySection">
+										<article class="albums">
+											<a href="surviving.html" class="image">
+												<img src="images/gallery/thumbs/surviving-2.png" alt="" />
+											</a>
+											<div class="caption">
+												<h3>Surviving COVID-19 on the Margins</h3>
+												<p>November 23, 2021</p>
+											</div>
+										</article>
+									</div>
+								</section>	
+								<section>
+									<div class="gallerySection">
+										<article class="albums">
+											<a href="doh.html" class="image">
+												<img src="images/gallery/thumbs/doh-research-1.jpg" alt="" />
+											</a>
+											<div class="caption">
+												<h3>DOH 11 Research Output Presentation</h3>
+												<p>October 14, 2021</p>
+											</div>
+										</article>
+									</div>
+								</section>
+								<section>
+									<div class="gallerySection">
+										<article class="albums">
+											<a href="madayaw.html" class="image">
+												<img src="images/gallery/thumbs/madayaw-1.jpg" alt="" />
+											</a>
+											<div class="caption">
+												<h3>4th Madayaw Internationalizations, Linkages, Community Engagements, Research & Innovation Conference</h3>
+												<p>August 25, 2021</p>
+											</div>
+										</article>
+									</div>
+								</section>
+							</div>
+
+					</section>
+				<!-- Footer -->
+					<footer class="wrapper style1 align-center">
+						<div class="inner">
+							<div>
+								<ul class="nav">
+									<li><a href="#home">Home</a></li>
+									<li><a href="#aboutme">About Me</a></li>
+									<li><a href="#recent">Recent Activities</a></li>
+									<li><a href="#skills">My Skills</a></li>
+								</ul>
+							</div>
+							<ul class="icons">
+								<li><a target = "_blank" href="https://www.facebook.com/federic.calo" class="icon brands style2 fa-facebook-f"><span class="label">Facebook</span></a></li>
+								<li><a target = "_blank" href="https://twitter.com/fdcalo" class="icon brands style2 fa-twitter"><span class="label">Twitter</span></a></li>
+								<li><a target = "_blank" href="https://www.linkedin.com/in/federico-calo-277686196/" class="icon brands style2 fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+								<li><a target = "_blank" href="mailto:fdcalo@up.edu.ph" class="icon style2 fa-envelope"><span class="label">Email</span></a></li>
+							</ul>
+							<p>&copy; 2022 Federico Calo. All rights reserved.</p>
+							<p class="credits">Created by <a href="https://imarijoyborda.com">Imari Joy Borda.</a></p>
+						</div>
+					</footer>
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script src="assets/js/functions.js"></script>
+
+	</body>
+</html>
